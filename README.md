@@ -1,21 +1,34 @@
-### Hi there, I'm Mr.Bionik - aka [Nitin] 👋 
+## Hey, I'm [Nitin!] 🐥
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/nitinn787?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=nitinn787)
+<a href="https://twitter.com/intent/user?screen_name=nitinn787">
+  <img align="left" alt="Vishal's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/nitin787">
+  <img align="left" alt="Vishal's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/nitin-787">
+  <img align="left" alt="Vishal's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://t.me/Nitin787">
+  <img align="left" alt="Vishal's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://instagram.com/_nitin787/">
+  <img align="left" alt="Vishal's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+<br/>
+<br/>
 
 ## I'm a Gamer, Writer, Developer, and Teacher!!
 
+<!-- - 🔭 I’m currently working -->
+<!-- - 👯I’m looking to collaborate with other developers . -->
 - 🔭 I'm self taught programmer
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to travel alone
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- 📫 How to reach me: [Twitter - @nitinn787](https://twitter.com/intent/user?screen_name=nitinn787) , [LinkedIn - @nitin787](https://www.linkedin.com/in/nitin787/)
+- 😄 Pronouns: He/Him 💁‍♂️
+- ⚡ Fun fact: I will stay up late night to talk to folks about Inclusion and Diversity :owl:
 
 <br />
 
