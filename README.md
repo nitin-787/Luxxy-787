@@ -43,6 +43,10 @@
 
 </details>
 
+<br />
+<br />
+
+![Nitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitin-787&hide=contribs,prs)
 
 [twitter]: https://twitter.com/nitinn787
 [youtube]: https://www.youtube.com/c/MrBioNik
