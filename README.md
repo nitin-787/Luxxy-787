@@ -1,4 +1,4 @@
-## Hey, I'm [Nitin!] 🐥
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Nitin!]
 
 <a href="https://twitter.com/intent/user?screen_name=nitinn787">
   <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
