@@ -19,7 +19,7 @@
 <br/>
 <br/>
 
-## I'm a Gamer, Writer, Developer, and Teacher!!
+## I'm a Gamer, Shayer, Developer, and Teacher!!
 
 <!-- - 🔭 I’m currently working -->
 <!-- - 👯I’m looking to collaborate with other developers . -->
@@ -59,7 +59,11 @@
 <br />
 <br />
 
-![Nitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitin-787&show_icons=true&theme=radical)
+## 📈 Stats
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=nitin-787&show_icons=true&theme=highcontrast" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nitin-787&theme=highcontrast" />
+</p>
 
 [twitter]: https://twitter.com/nitinn787
 [youtube]: https://www.youtube.com/c/MrBioNik
