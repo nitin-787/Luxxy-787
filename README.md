@@ -23,7 +23,7 @@
 
 <!-- - 🔭 I’m currently working -->
 <!-- - 👯I’m looking to collaborate with other developers . -->
-- 🔭 I'm self taught programmer
+- 💻 I'm self taught programmer
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: [Twitter - @nitinn787](https://twitter.com/intent/user?screen_name=nitinn787) , [LinkedIn - @nitin787](https://www.linkedin.com/in/nitin787/)
