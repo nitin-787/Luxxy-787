@@ -31,13 +31,17 @@
 # 💫 About Me :
 <br/>
 
-- 👯 I'm Looking to Collaborate on  **Flutter , DevOps And Open Source Projects**.
-- 💻 I'm self taught programmer
-- 🌱 I’m currently learning **Flutter, Devops and DSA**
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- 💬 Ask me anything about [here](https://discord.com/users/947741502304550912) ! I'm always open to help!
-- 😄 Pronouns: **He/Him** 💁‍♂️
-- ⚡ Fun fact: Sometimes I don't need subtitles while watching anime! :owl:
+<div>
+  <ul>
+    <li>👯 I'm Looking to Collaborate on  **Flutter , DevOps And Open Source Projects**</li>
+    <li>💻 I'm self taught programmer</li>
+    <li>🌱 I’m currently learning **Flutter, Devops and DSA**</li>
+    <li>🥅 2022 Goals: Contribute more to Open Source projects</li>
+    <li>💬 Ask me anything about <a href="https://discord.com/users/947741502304550912">here</a>! I'm always open to help!</li>
+    <li>😄 Pronouns: **He/Him** 💁‍</li>
+    <li>⚡ Fun fact: Sometimes I don't need subtitles while watching anime! :owl:</li>
+</ul>
+</div>
 
 <br />
 <div align="left">
