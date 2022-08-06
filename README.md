@@ -66,7 +66,7 @@
 ## Let's chat
 <br/>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/947741502304550912)](https://discord.com/users/947741502304550912)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/947741502304550912?theme=dark&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=That's%20what%20she%20said,%20Nothing%20you%20idiots%20she's%20dead...)](https://discord.com/users/947741502304550912)
 
 <br/>
 <br/>
