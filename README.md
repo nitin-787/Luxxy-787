@@ -15,7 +15,7 @@
 <a href="mailto:nitinsharmaa787@gmail.com">
   <img align="left" width="32px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
-<a href="https://instagram.com/_nitin787/">
+<a href="https://instagram.com/nitin787_/">
   <img align="left" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
 </a>
 <a href="https://www.youtube.com/c/MrBioNik">
