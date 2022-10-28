@@ -22,13 +22,14 @@
   <img align="left" width="32px" src="https://i.pinimg.com/originals/46/02/cb/4602cbc18967da9c1eba7452905cd99b.png" />
 </a>
 <a href="https://discord.com/users/947741502304550912">
-  <img align="left" width="32px" src="https://cdn.discordapp.com/attachments/1005490731781193758/1005499935329878107/discord.png"/>
+  <img align="left" width="32px" src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" />
 </a>
 
 <br/>
 <br/>
 
 # 💫 About Me :
+
 <br/>
 
 <div>
@@ -37,26 +38,33 @@
     <li>💻 I'm self taught programmer</li>
     <li>🌱 I’m currently learning <b>Flutter, Devops and DSA<b></li>
     <li>🥅 2022 Goals: Contribute more to Open Source projects</li>
-    <li>💬 Ask me anything about <a href="https://discord.com/users/947741502304550912">here</a>! I'm always open to help!</li>
-    <li>😄 Pronouns: **He/Him** 💁‍</li>
+    <li>💬 Ask me anything about Anime, open source</li>
+    <li>😄 Pronouns: He/Him</li>
     <li>⚡ Fun fact: Sometimes I don't need subtitles while watching anime! :owl:</li>
-</ul>
+</ul> 
 </div>
 
 <br />
-<div align="left">
 <h3 align="left">Languages and Tools:</h3> 
 <br/>
-<code><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png"></code>
-<code><img height="40" width="40" src="https://github.com/github/explore/raw/main/topics/css/css.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+<p align="left">
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code> 
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code> 
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code> 
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png"></code>
 
-<code><img height="40" width="40" src="https://cdn.discordapp.com/attachments/1005490731781193758/1005499547650367508/docker.png"></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg"></code>
+
+
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
-<code><img height="40" width="40" src="https://cdn.discordapp.com/attachments/1005490731781193758/1005491430380281856/github.png"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
@@ -68,6 +76,7 @@
 <br />
 
 ## Let's chat
+
 <br/>
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/947741502304550912?theme=dark&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=That's%20what%20she%20said,%20Nothing%20you%20idiots%20she's%20dead...)](https://discord.com/users/947741502304550912)
@@ -85,7 +94,7 @@
 
 [twitter]: https://twitter.com/nitinn787
 [youtube]: https://www.youtube.com/c/MrBioNik
-[instagram]: https://www.instagram.com/_nitin787/
+[instagram]: https://www.instagram.com/nitin787_/
 [linkedin]: https://www.linkedin.com/in/nitin787/
 
 <div align="center">
@@ -93,3 +102,4 @@
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+
