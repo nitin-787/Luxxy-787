@@ -1,4 +1,6 @@
-![Group 20](https://user-images.githubusercontent.com/76255199/208314995-2eda24e4-13dd-4d9c-8cfd-63d6a4d8aab2.png) 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/76255199/208314995-2eda24e4-13dd-4d9c-8cfd-63d6a4d8aab2.png" />
+</p>
 	 
 ## 🌐 Socials
 <br/>
@@ -75,7 +77,7 @@
 
 <br/>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/947741502304550912?theme=dark&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=That's%20what%20she%20said,%20Nothing%20you%20idiots%20she's%20dead...)](https://discord.com/users/947741502304550912)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/947741502304550912?theme=dark&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=and%20then%20I%20heard%20you%20were%20dead...)](https://discord.com/users/947741502304550912)
 
 <br/>
 <br/>
