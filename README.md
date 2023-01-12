@@ -4,17 +4,8 @@
 	 
 ## 🌐 Socials
 <br/>
-<a href="https://twitter.com/intent/user?screen_name=nitinn787">
-  <img align="left" width="32px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
-</a>
-<a href="https://linkedin.com/in/nitin787">
-  <img align="left" width="32px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
-</a>
 <a href="mailto:nitinsharmaa787@gmail.com">
   <img align="left" width="32px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
-</a>
-<a href="https://instagram.com/nitin787_/">
-  <img align="left" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
 </a>
 <a href="https://www.youtube.com/c/MrBioNik">
   <img align="left" width="32px" src="https://i.pinimg.com/originals/46/02/cb/4602cbc18967da9c1eba7452905cd99b.png" />
