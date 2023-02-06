@@ -26,7 +26,7 @@
     <li>👯 I'm Looking to Collaborate on  <b>Flutter , DevOps And Open Source Projects</b></li>
     <li>💻 I'm self taught programmer 😁</li>
     <li>🌱 I’m currently learning <b>Flutter, Devops and DSA<b></li>
-    <li>🥅 2022 Goals: Contribute more to Open Source projects</li>
+    <li>🥅 2023 Goals: Contribute more to Open Source projects</li>
     <li>💬 Ask me anything about Anime, open source</li>
     <li>😄 Pronouns: He/Him</li>
     <li>⚡ Fun fact: Sometimes I don't need subtitles while watching anime! :owl:</li>
