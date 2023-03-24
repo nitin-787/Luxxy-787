@@ -2,7 +2,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Nitin!</h1>
-<h3 align="center">I'm a 3d gamer, Developer, and Teacher!!</h3>
+<h3 align="center">I'm a 3d artist, Developer, and Teacher!!</h3>
 	 
 ## 🌐 Socials
 <br/>
@@ -25,9 +25,9 @@
 
 <div>
   <ul>
-    <li>👯 I'm Looking to Collaborate on  <b>Flutter , DevOps And Open Source Projects</b></li>
+    <li>👯 I'm Looking to Collaborate on  <b>Flutter, DevOps And Open Source Projects</b></li>
     <li>💻 I'm self taught programmer 😁</li>
-    <li>🌱 I’m currently learning <b>Flutter, Devops and DSA<b></li>
+    <li>🌱 I’m currently learning <b>Blender, Devops and DSA<b></li>
     <li>🥅 2023 Goals: Contribute more to Open Source projects</li>
     <li>💬 Ask me anything about Anime, open source</li>
     <li>😄 Pronouns: He/Him</li>
