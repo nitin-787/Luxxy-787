@@ -29,7 +29,7 @@
     <li>💻 I'm self taught programmer 😁</li>
     <li>🌱 I’m currently learning <b>Blender, Devops and DSA<b></li>
     <li>🥅 2023 Goals: Contribute more to Open Source projects</li>
-    <li>💬 Ask me anything about Anime, open source</li>
+    <li>💬 Ask me anything about Anime and open source</li>
     <li>😄 Pronouns: He/Him</li>
     <li>⚡ Fun fact: Sometimes I don't need subtitles while watching anime! :owl:</li>
 </ul> 
