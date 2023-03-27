@@ -2,7 +2,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Nitin!</h1>
-<h3 align="center">I'm a 3d artist, Developer, and Teacher!!</h3>
+<h3 align="center">I'm a 3d artistsfd, Developer, and Teacher!!</h3>
 	 
 ## 🌐 Socials
 <br/>
