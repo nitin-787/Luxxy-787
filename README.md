@@ -19,7 +19,7 @@
 <br/>
 <br/>
 
-# 💫 About Me :
+# 💫 About Me ::
 
 <br/>
 
