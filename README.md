@@ -16,12 +16,6 @@
 
 <div align="center" width="50">
   
-<p><strong> Busy coding & Vibing to :  </strong></p>
-
-
-![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31apa42np4if7wlpu474qzlc37rm&cover_image=false&theme=default&show_offline=false&background_color=transparent&interchange=false&bar_color=53b14f&bar_color_cover=false)
-
-
 ![Totals Hits](https://komarev.com/ghpvc/?username=nitin-787&style=flat&color=orange&label=PROFILE+VIEWS)
 [![telegram badge](https://img.shields.io/badge/ukiyo-grey?style=flat&logo=telegram)](https://t.me/benihimearatamee) <br>
 </div>
