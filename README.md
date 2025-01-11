@@ -1,10 +1,8 @@
 <h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> I'm Nitin</h1>
 
 ## 🌐 Socials
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; How to reach me: **nitinsharma.devx@gmail.com**<br>
 <br/>
-<a href="mailto:nitinsharmaa787@gmail.com">
-  <img align="left" width="32px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
-</a>
 <a href="https://www.youtube.com/c/MrBioNik">
   <img align="left" width="32px" src="https://i.pinimg.com/originals/46/02/cb/4602cbc18967da9c1eba7452905cd99b.png" />
 </a>
@@ -48,7 +46,6 @@
   <img align="right" src="https://github.com/user-attachments/assets/4bbfbe06-ec16-43c4-939d-bd916f2526b2" alt="nitin" width="25%" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Anime, or anything**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[Ukiyo](https://t.me/benihimearatamee)**<br>
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Python is named after **Monty Python** not the snake. 🐍🎭.<br>
 
 
